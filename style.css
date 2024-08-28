@@ -7,29 +7,35 @@
     box-sizing: border-box;
 }
 
-.logo{
+.logo {
     font-family: Raleway;
     font-size: 32px;
     color: black;
 }
 
 a {
-    text-decoration:none;
+    text-decoration: none;
     color: black;
 }
 
-.navbar{
+.navbar {
     padding-top: 1vh;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     gap: 26.5vw;
+
 }
 
-.navbar-center ul{
-    display:flex;
-    gap:26px;
+.navbar-center ul {
+    display: flex;
+    gap: 26px;
     list-style-type: none;
     font-family: Raleway;
-    
+
+}
+
+
+body {
+    background-image: url('./images/hero-image.jpg');
 }
