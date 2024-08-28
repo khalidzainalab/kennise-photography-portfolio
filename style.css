@@ -11,6 +11,7 @@
     font-family: Raleway;
     font-size: 32px;
     color: black;
+    font-weight:bolder;
 }
 
 a {
@@ -29,10 +30,11 @@ a {
 
 .navbar-center ul {
     display: flex;
-    gap: 26px;
+    margin-right: 40px;
+    gap: 30px;
     list-style-type: none;
     font-family: Raleway;
-
+    font-weight:bold;
 }
 
 
